@@ -12,6 +12,7 @@
 import sys
 import re
 import time
+import readline
 import requests
 import subprocess
 import json
