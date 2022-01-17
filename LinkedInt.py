@@ -1,3 +1,5 @@
+#! /usr/bin/env python3
+
 # LinkedInt
 # Scrapes LinkedIn without using LinkedIn API
 # Original scraper by @DisK0nn3cT (https://github.com/DisK0nn3cT/linkedin-gatherer)
@@ -7,7 +9,6 @@
 # --- Constrain to company filters
 # --- Addition of Hunter for e-mail prediction
 
-#!/usr/bin/python3
 
 import sys
 import re
